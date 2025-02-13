@@ -20,14 +20,16 @@ Following steps of [Audacity](https://support.audacityteam.org/repairing-audio/n
 2. The audio normalization process (and noise removal) was carried out through the Audacity audio editor. The audio files were loaded and the audio was normalized, with the following configurations: 
 
 ![Loudness Normalization presets in Audacity.](https://github.com/blondiedies/Dataset-custom-audio/blob/4906a55e9864e79469a8ad4872e49f04b4d5aec2/images/loudnessnorm.png?raw=true) 
+
 The normalized audio, displayed in Audacity:  
 ![Spectrogram of normalized audio displayed in Audacity.](https://github.com/blondiedies/Dataset-custom-audio/blob/4906a55e9864e79469a8ad4872e49f04b4d5aec2/images/normalized.png?raw=true)
 
 3. The noise was then removed, using the previously recorded (and normalized) noise sample as the noise profile, with the following settings:
 
 ![Noise Reduction presets in Audacity.](https://github.com/blondiedies/Dataset-custom-audio/blob/4906a55e9864e79469a8ad4872e49f04b4d5aec2/images/noisereduce.png?raw=true) 
+
 Noise-free audio, displayed in Audacity:  
-![Spectrogram of normalized and noise-removed audio displayed in Audacity.](https://github.com/blondiedies/Dataset-custom-audio/blob/4906a55e9864e79469a8ad4872e49f04b4d5aec2/images/noisereduucedaudio.png?raw=true)
+![Spectrogram of normalized and noise-removed audio displayed in Audacity.](https://github.com/blondiedies/Dataset-custom-audio/blob/4906a55e9864e79469a8ad4872e49f04b4d5aec2/images/noisereducedaudio.png?raw=true)
 
 4. Upon completion, three versions of the set of audio files were generated:  
    1. Control version, .wav format, consists of the raw audio.  
