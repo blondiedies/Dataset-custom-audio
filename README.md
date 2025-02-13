@@ -1,6 +1,13 @@
 # Dataset-custom-audio
 Dataset containing .wav recordings of keyboard presses from a Lenovo IdeaPad Gaming 3. Includes normalized and denoised audio.
 
+# Contents
+For the first recording, Raw audio files, Normalized files, and Normalized-Denoised files are available.
+
+For the second recording, only Normalized files and Normalized-Denoised files are available.
+
+The noise profiles used for noise removal are also available. 
+
 # Recording and preprocessing of new audio samples
 
 Following steps of [Audacity](https://support.audacityteam.org/repairing-audio/noise-reduction-removal).
